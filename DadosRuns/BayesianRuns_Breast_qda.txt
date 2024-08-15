@@ -1,0 +1,99 @@
+Execução Iterações Bayesian Breast qda.
+
+ACC: 0.9557522123893806
+Confusion Matrix: 
+ [[41  2]
+ [ 3 67]] 
+
+ACC: 0.9380530973451328
+Confusion Matrix: 
+ [[37  5]
+ [ 2 69]] 
+
+ACC: 0.9469026548672567
+Confusion Matrix: 
+ [[45  5]
+ [ 1 62]] 
+
+ACC: 0.9380530973451328
+Confusion Matrix: 
+ [[38  3]
+ [ 4 68]] 
+
+ACC: 0.9823008849557522
+Confusion Matrix: 
+ [[44  2]
+ [ 0 67]] 
+
+ACC: 0.8938053097345132
+Confusion Matrix: 
+ [[32  7]
+ [ 5 69]] 
+
+ACC: 0.9646017699115044
+Confusion Matrix: 
+ [[46  4]
+ [ 0 63]] 
+
+ACC: 0.9823008849557522
+Confusion Matrix: 
+ [[36  1]
+ [ 1 75]] 
+
+ACC: 0.9557522123893806
+Confusion Matrix: 
+ [[40  3]
+ [ 2 68]] 
+
+ACC: 0.9646017699115044
+Confusion Matrix: 
+ [[34  3]
+ [ 1 75]] 
+
+ACC: 0.9823008849557522
+Confusion Matrix: 
+ [[38  1]
+ [ 1 73]] 
+
+ACC: 0.9734513274336283
+Confusion Matrix: 
+ [[46  3]
+ [ 0 64]] 
+
+ACC: 0.9911504424778761
+Confusion Matrix: 
+ [[46  0]
+ [ 1 66]] 
+
+ACC: 0.9734513274336283
+Confusion Matrix: 
+ [[39  3]
+ [ 0 71]] 
+
+ACC: 0.9734513274336283
+Confusion Matrix: 
+ [[36  2]
+ [ 1 74]] 
+
+ACC: 0.911504424778761
+Confusion Matrix: 
+ [[35  8]
+ [ 2 68]] 
+
+ACC: 0.9557522123893806
+Confusion Matrix: 
+ [[35  5]
+ [ 0 73]] 
+
+ACC: 0.9380530973451328
+Confusion Matrix: 
+ [[43  5]
+ [ 2 63]] 
+
+ACC: 0.9646017699115044
+Confusion Matrix: 
+ [[37  3]
+ [ 1 72]] 
+
+
+Acurácia média das 20 iterações: 0.96 ± 0.02

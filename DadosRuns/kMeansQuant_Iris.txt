@@ -1,0 +1,130 @@
+Execução Iterações Kmeans Iris.
+
+ACC: 0.7333333333333333
+Confusion Matrix: 
+ [[4 0 7]
+ [0 9 0]
+ [0 1 9]] 
+
+ACC: 0.8
+Confusion Matrix: 
+ [[ 1  0  5]
+ [ 0  7  0]
+ [ 0  1 16]] 
+
+ACC: 0.8333333333333334
+Confusion Matrix: 
+ [[ 1  0  5]
+ [ 0 11  0]
+ [ 0  0 13]] 
+
+ACC: 0.9666666666666667
+Confusion Matrix: 
+ [[12  0  0]
+ [ 0 10  0]
+ [ 0  1  7]] 
+
+ACC: 0.8333333333333334
+Confusion Matrix: 
+ [[ 3  0  5]
+ [ 0 11  0]
+ [ 0  0 11]] 
+
+ACC: 0.7
+Confusion Matrix: 
+ [[5 0 9]
+ [0 8 0]
+ [0 0 8]] 
+
+ACC: 0.5666666666666667
+Confusion Matrix: 
+ [[ 1  0 11]
+ [ 0  9  1]
+ [ 0  1  7]] 
+
+ACC: 0.8
+Confusion Matrix: 
+ [[ 0  0  6]
+ [ 0 13  0]
+ [ 0  0 11]] 
+
+ACC: 0.5333333333333333
+Confusion Matrix: 
+ [[ 0  0 14]
+ [ 0  6  0]
+ [ 0  0 10]] 
+
+ACC: 0.8
+Confusion Matrix: 
+ [[ 3  0  6]
+ [ 0 13  0]
+ [ 0  0  8]] 
+
+ACC: 0.8333333333333334
+Confusion Matrix: 
+ [[ 7  0  4]
+ [ 0 11  0]
+ [ 0  1  7]] 
+
+ACC: 0.7666666666666667
+Confusion Matrix: 
+ [[ 1  0  6]
+ [ 0 11  1]
+ [ 0  0 11]] 
+
+ACC: 0.4666666666666667
+Confusion Matrix: 
+ [[ 0  0 13]
+ [ 0  7  2]
+ [ 0  1  7]] 
+
+ACC: 0.7666666666666667
+Confusion Matrix: 
+ [[ 5  0  7]
+ [ 0 12  0]
+ [ 0  0  6]] 
+
+ACC: 0.7666666666666667
+Confusion Matrix: 
+ [[ 1  0  7]
+ [ 0 12  0]
+ [ 0  0 10]] 
+
+ACC: 0.5666666666666667
+Confusion Matrix: 
+ [[ 2  0 13]
+ [ 0  6  0]
+ [ 0  0  9]] 
+
+ACC: 0.5666666666666667
+Confusion Matrix: 
+ [[ 0  0 12]
+ [ 0 10  0]
+ [ 0  1  7]] 
+
+ACC: 0.8
+Confusion Matrix: 
+ [[ 0  0  5]
+ [ 0 13  0]
+ [ 0  1 11]] 
+
+ACC: 0.7666666666666667
+Confusion Matrix: 
+ [[7 0 6]
+ [0 9 0]
+ [0 1 7]] 
+
+ACC: 0.6333333333333333
+Confusion Matrix: 
+ [[ 0  0 11]
+ [ 0  9  0]
+ [ 0  0 10]] 
+
+ACC: 0.7666666666666667
+Confusion Matrix: 
+ [[ 3  0  6]
+ [ 0 12  1]
+ [ 0  0  8]] 
+
+
+Acurácia média das 20 iterações: 0.73 ± 0.12
